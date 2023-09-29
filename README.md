@@ -43,7 +43,7 @@ Una aplicación web es un programa o software que se ejecuta en un navegador web
 
 Ejemplos comunes de aplicaciones web incluyen servicios de correo electrónico en línea, suites de productividad en línea, redes sociales, sistemas de gestión de contenidos, servicios de almacenamiento en la nube, y muchas otras herramientas y servicios en línea.
 
-[microsoft_365](!https://github.com/MarkMersi/markdown/blob/main/Microsoft.png "Microsoft 365")
+![microsoft_365](https://github.com/MarkMersi/markdown/blob/main/Microsoft.png "Microsoft 365")
 
 ## ¿Qué es una herramienta ofimática?
 
@@ -61,7 +61,7 @@ Las funciones principales que puedes sacar de provecho con las herramientas ofim
 - Comunicación en equipo
 - Herramientas PDF
 
-## [GOOGLE](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google:")
+## [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "link")
 
 |Aplicaciones|Visto|
 |:-----------:|:------------:|
@@ -104,4 +104,4 @@ body {
 
 ## Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-[imagen](!https://github.com/MarkMersi/markdown/blob/main/flujo_trabajo.png "Flujo de Trabajo")
+![imagen](https://github.com/MarkMersi/markdown/blob/main/flujo_trabajo.png "Flujo de Trabajo")
